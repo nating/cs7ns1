@@ -9,7 +9,7 @@
 
 ## Overview of this document
 
-This document describes the work involved in Practical 5 - Infernoball. The GitHub repository that was used during the assignment can be found [here](https://github.com/nating/infernoball/).
+This document describes the work involved in Practical 5 - Infernoball. The GitHub repository that was used during the assignment can be found [here](https://github.com/nating/infernoball/). Some wordlists are missing from this repository as they are too big for GitHub.
 
 ## Task
 
