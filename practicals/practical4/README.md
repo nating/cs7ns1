@@ -53,7 +53,7 @@
 
 ### Password identification
 
-* Ran `hashcat -m 500 hashes/MD5.txt rockyou.txt` and `hashcat -m 500 hashes/DES.txt rockyou.txt` to crack some easy hashes to start with (rockyou is usually a good staring place) to determine a password pattern.
+* Ran `hashcat -m 500 hashes/MD5.txt rockyou.txt` and `hashcat -m 500 hashes/DES.txt rockyou.txt` to crack some easy hashes to start with (rockyou.txt is usually a good staring place) to determine a password pattern.
 * Noted that it seemed:
   * Many of the passwords were 5 letters long.
   * Many of the passwords were 8 letters long, and look like two words put together.

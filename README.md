@@ -15,4 +15,4 @@ This repository contains details of the work done for assignments in the CS7NS1 
 
 ---
 
-* [Module Final Report](https://github.com/nating/cs7ns1/blob/master/MODULE-FINAL-REPORT.md)
+* [Module Final Report](https://github.com/nating/cs7ns1/blob/master/module-final-report/MODULE-REPORT.pdf)

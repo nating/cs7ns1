@@ -27,9 +27,9 @@
 
 ## Steps Actually Taken
 
-* Run `hashid -m nating.hashes` to identify hashes as MD5 Crypt with a hashcat mode of 500.
-* Run `hashcat -m 500 nating.hashes rockyou.txt` to crack some hashes to start with (rockyou is usually a good staring place to determine some pattern).
-* Note all passwords are of 8 characters long.
-* Run `awk 'length($0)>7' rockyou.txt > temp.txt` to get rid of passwords less than 8 characters long.
-* Run `awk 'length($0)<9' temp.txt > wordlist.txt` to get rid of passwords more than 8 characters long.
-* Run `hashcat -m 500 nating.hashes wordlist.txt`.
+* Ran `hashid -m nating.hashes` to identify hashes as MD5 Crypt with a hashcat mode of 500.
+* Ran `hashcat -m 500 nating.hashes rockyou.txt` to crack some hashes to start with (rockyou.txt is usually a good staring place to determine some pattern).
+* Noted all passwords are of 8 characters long.
+* Ran `awk 'length($0)>7' rockyou.txt > temp.txt` to get rid of passwords less than 8 characters long.
+* Ran `awk 'length($0)<9' temp.txt > wordlist.txt` to get rid of passwords more than 8 characters long.
+* Ran `hashcat -m 500 nating.hashes wordlist.txt`.
