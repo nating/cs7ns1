@@ -7,6 +7,10 @@
 <img width="250" alt="InfernoBall" src="https://github.com/nating/cs7ns1/blob/master/assets/img/infernoball.png?raw=true">
 </p>
 
+## Overview of this document
+
+This document describes the work involved in Practical 5 - Infernoball. The GitHub repository that was used during the assignment can be found [here](https://github.com/nating/infernoball/).
+
 ## Task
 
 * Hash crack [the InfernoBall](https://github.com/nating/cs7ns1/blob/master/practicals/practical5/layer-01/infernoball.json).

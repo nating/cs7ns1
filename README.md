@@ -5,6 +5,10 @@
 
 This repository contains details of the work done for assignments in the CS7NS1 - Scalable Computing Module in Trinity College Dublin 2018.
 
+## Related Repositories
+
+* [The team repository for Practical 5 - Infernoball](https://github.com/nating/infernoball/)
+
 ## Practical Work Details
 
 |||
